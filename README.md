@@ -11,7 +11,7 @@ Attention Treehouse: Extra Credit features included:
 - When the user clicks on the start button, the title and message text animate and disappear before game starts.
 - Onscreen keyboard keys rotate on hover. alternating keys rotate in different directions
 - Onscreen keyboard keys temporarily grow bigger when a correct letter is clicked
-- Onscreen keyboard keys temorarily shrink when an incorrect letter is clicked
+- Onscreen keyboard keys temporarily shrink when an incorrect letter is clicked
 
 This project presents a one-player hangman-like game using object-oriented, unobtrusive JavaScript. 
 We select a random phrase, then the player guesses letters by pressing keys on either the keyboard 
