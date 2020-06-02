@@ -1,7 +1,9 @@
 # Phrase-Hunter Game
-### Project 4, Treehouse Full Stack JavaScript TechDegree Program
+## Treehouse Full Stack JavaScript Techdegree Unit 4
 
-Attention Treehouse: Extra Credit features included:
+This project was graded **Exceeds Expectations**.
+
+Extra Credit features included:
 - I added logic to avoid repeated phrases until each phrase has been used.
 - I added keyboard input in addition to the onscreen keyboard.
 - I included support for punctuation/special characters, which are now displayed along with spaces. 
@@ -18,4 +20,4 @@ We select a random phrase, then the player guesses letters by pressing keys on e
 or the onscreen keyboard. The game ends when the player guesses the complete phrase or when they make 
 five incorrect guesses.
 
-To see it in action, download the files and view the index.html file in your favorite browser.
+[See this project in action!](https://rstevahn.github.io/phrase-hunter-game/)
